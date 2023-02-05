@@ -1,0 +1,58 @@
+.strength{
+    width: 100px;
+    height: 35px;
+    background-color: #232735;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: absolute;
+    right: 1140px;
+    top: 50px;
+    }
+    
+    .sports{
+    width: 100px;
+    height: 35px;
+    background-color: #232735;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: absolute;
+    right: 780px;
+    top: 50px;
+    }
+    
+    .weight{
+    width: 100px;
+    height: 35px;
+    background-color: #232735;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: absolute;
+    right: 440px;
+    top: 50px;
+    }
+    
+    .mental{
+    width: 100px;
+    height: 35px;
+    background-color: #232735;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: absolute;
+    right: 110px;
+    top: 50px;
+    }
+    
+    a{
+      color:white;
+      
+    }
+
+
